@@ -1,0 +1,18 @@
+[
+  {
+    "name": "[COLOR orange]Ar[COLOR pink]es[/COLOR][/COLOR][COLOR orange]Liteteste[/COLOR]",
+    "id": "plugin.video.aresliteteste",
+    "description": "SEJAM BEM VINDOS!! ADDON ARES LITE TODO CONTEÚDO DESSE ADDON FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTÁ VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS.",
+    "icon": "https://raw.githubusercontent.com/aresrepo/aresrepo.github.io/refs/heads/main/matrix/Icon.png",
+    "fanart": "https://raw.githubusercontent.com/aresrepo/aresrepo.github.io/refs/heads/main/matrix/Icon.png",
+    "url": {
+      "universal": "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.aresliteteste-3.2.1.zip",
+      "windows_x86_64": "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.aresliteteste-3.2.1.zip",
+      "android_arm64": "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.aresliteteste-3.2.1.zip",
+      "android_arm": "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.aresliteteste-3.2.1.zip"
+    },
+    "dependencies": {
+      "universal": []
+    }
+  }
+]
