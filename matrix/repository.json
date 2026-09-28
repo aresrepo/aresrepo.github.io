@@ -13,7 +13,10 @@
       "android_arm": "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.aresliteteste-3.2.1.zip"
     },
     "dependencies": {
-      "universal": []
+      "universal": [
+        "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.aresslimtrailers.zip",
+        ""
+      ]
     }
   }
 ]
