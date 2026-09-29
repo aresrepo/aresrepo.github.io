@@ -15,7 +15,7 @@
     "dependencies": {
       "universal": [
         "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.aresslimtrailers.zip",
-        ""
+        "https://github.com/aresrepo/aresrepo.github.io/raw/refs/heads/main/matrix/plugin.video.youtube-7.4.4.zip"
       ]
     }
   }
